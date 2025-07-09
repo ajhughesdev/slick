@@ -37,9 +37,6 @@ Then, before your closing ```<body>``` tag add:
 #### Package Managers
 
 ```sh
-# Bower
-bower install --save slick-carousel
-
 # NPM
 npm install slick-carousel
 ```
